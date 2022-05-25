@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626127909564",
+    "project_id": "anonymous-firebase",
+    "storage_bucket": "anonymous-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626127909564:android:d68259c93a571b6259d6b9",
+        "android_client_info": {
+          "package_name": "com.myapplication.anonymous_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626127909564-l0uj700jcrom299cstasgv9vdqqbi0h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTA6RSRD7FGIH7Aa2hEBjQ3IG1k2G7LYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626127909564-l0uj700jcrom299cstasgv9vdqqbi0h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
